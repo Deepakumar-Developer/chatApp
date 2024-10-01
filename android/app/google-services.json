@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "447102993595",
+    "project_id": "intent-bc3cb",
+    "storage_bucket": "intent-bc3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447102993595:android:f7547978b879ef4ae2959e",
+        "android_client_info": {
+          "package_name": "com.deepakumar452005.expends_money"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuT2DbUdgw_C-g9XEijLSm3hQYFnvoXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447102993595:android:59f8c235801b653fe2959e",
+        "android_client_info": {
+          "package_name": "com.example.hr_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuT2DbUdgw_C-g9XEijLSm3hQYFnvoXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447102993595:android:415cbcb25e1adc3ee2959e",
+        "android_client_info": {
+          "package_name": "com.example.next_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuT2DbUdgw_C-g9XEijLSm3hQYFnvoXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
